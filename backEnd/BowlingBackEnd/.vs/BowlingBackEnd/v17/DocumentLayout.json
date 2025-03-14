@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|c:\\users\\alext_x0p\\onedrive\\desktop\\bowlingapp\\backend\\bowlingbackend\\bowlingbackend\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|solutionrelative:bowlingbackend\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|c:\\users\\alext_x0p\\onedrive\\desktop\\bowlingapp\\backend\\bowlingbackend\\bowlingbackend\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|solutionrelative:bowlingbackend\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|c:\\users\\alext_x0p\\onedrive\\desktop\\bowlingapp\\backend\\bowlingbackend\\bowlingbackend\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|solutionrelative:bowlingbackend\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|c:\\users\\alext_x0p\\onedrive\\desktop\\bowlingapp\\backend\\bowlingbackend\\bowlingbackend\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|solutionrelative:bowlingbackend\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|c:\\users\\alext_x0p\\onedrive\\desktop\\bowlingapp\\backend\\bowlingbackend\\bowlingbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|solutionrelative:bowlingbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|c:\\users\\alext_x0p\\onedrive\\desktop\\bowlingapp\\backend\\bowlingbackend\\bowlingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442160D-E365-45A7-83E4-55D8811B7586}|BowlingBackEnd\\BowlingBackEnd.csproj|solutionrelative:bowlingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +59,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BowlingBackEnd\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BowlingBackEnd\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T03:10:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BowlingBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Program.cs",
+              "RelativeToolTip": "BowlingBackEnd\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:42:01.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "BowlingBackEnd\\Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Controllers\\BowlerController.cs*",
+              "RelativeToolTip": "BowlingBackEnd\\Controllers\\BowlerController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:22:43.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "BowlingBackEnd\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Data\\BowlerDbContext.cs",
+              "RelativeToolTip": "BowlingBackEnd\\Data\\BowlerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:20:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "BowlingBackEnd\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Data\\Team.cs",
+              "RelativeToolTip": "BowlingBackEnd\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:11:15.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "BowlingBackEnd\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\alext_x0p\\OneDrive\\Desktop\\BowlingApp\\backEnd\\BowlingBackEnd\\BowlingBackEnd\\Data\\Bowler.cs",
+              "RelativeToolTip": "BowlingBackEnd\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T20:11:00.479Z",
+              "EditorCaption": ""
             }
           ]
         }
